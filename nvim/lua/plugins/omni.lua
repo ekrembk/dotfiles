@@ -1,0 +1,5 @@
+return {
+  {
+    'getomni/neovim',
+  },
+}

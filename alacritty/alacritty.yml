@@ -1,0 +1,21 @@
+window:
+  decorations: "None"
+  startup_mode: "Maximized"
+  padding:
+    y: 0
+font:
+  normal:
+    family: "BlexMono Nerd Font"
+  size: 17
+  offset:
+    x: 0
+    y: 13
+  glyph_offset:
+    x: 0
+    y: 6
+live_config_reload: true
+colors:
+  primary:
+    background: "#1e1e2e"
+key_bindings:
+  - { key: W, mods: Command, action: None }
