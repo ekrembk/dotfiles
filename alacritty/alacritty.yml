@@ -19,3 +19,5 @@ colors:
     background: "#1e1e2e"
 key_bindings:
   - { key: W, mods: Command, action: None }
+  - { key: Right, mods: Alt, chars: "\x1BF" }
+  - { key: Left, mods: Alt, chars: "\x1BB" }
